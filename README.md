@@ -1,9 +1,17 @@
 # py_mybatis_generator_gui
 基于python tinker开发的图形化Mybatis代码生成工具
 
+![](./imgs/home.PNG)
+
+![](./imgs/making.PNG)
+
 
 ## 开发环境
-Python 3+
+* Python 3+
+
+## 运行环境
+* Python 3+
+* JRE
 
 ## 依赖
 * pymysql
