@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <!DOCTYPE generatorConfiguration PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN" "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+
+<generatorConfiguration>
+    <classPathEntry location="D:\Dev\Code\PycharmProjects\MybatisGeneratorGUI\jar\mysql-driver.jar" />
+    <context id="default" targetRuntime="MyBatis3Simple">
+        <jdbcConnection driverClass="com.mysql.cj.jdbc.Driver" connectionURL="" userId="" password="" />
+        <javaModelGenerator targetPackage="com.test.model" targetProject="D:/test\result\mysql\model" />
+        <sqlMapGenerator targetPackage="com.test.mapper" targetProject="D:/test\result\mysql\mapper" />
+        <javaClientGenerator targetPackage="com.test.dao" targetProject="D:/test\result\mysql\dao" type="XMLMAPPER" />
+    </context>
+</generatorConfiguration>
