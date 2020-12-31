@@ -13,8 +13,10 @@
 * Python 3+
 * JRE
 
-## 依赖
-* pymysql
+## 运行方法
+1. 将MybatisGeneratorGUI导入Pycharm
+2. 创建venv，安装pymysql
+3. 运行
 
 ## 文档
 
