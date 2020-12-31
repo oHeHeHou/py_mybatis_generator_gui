@@ -1,5 +1,6 @@
 # py_mybatis_generator_gui
 基于python tinker开发的图形化Mybatis代码生成工具
+代码生成直接调用mybatis-generator-core-1.4.0.jar
 
 ![](./imgs/home.PNG)
 
@@ -12,6 +13,11 @@
 ## 运行环境
 * Python 3+
 * JRE
+
+## 项目结构
+
+* MybatisGeneratorGUI 界面和调用jar代码
+* Db2Info Java实现的DB2数据表信息访问工具，为了避免安装ibm_db2
 
 ## 运行方法
 1. 将MybatisGeneratorGUI导入Pycharm
