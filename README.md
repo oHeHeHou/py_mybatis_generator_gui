@@ -1,0 +1,2 @@
+# py_mybatis_generator_gui
+基于python tinker开发的图形化Mybatis代码生成工具
