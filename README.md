@@ -2,9 +2,9 @@
 基于python tinker开发的图形化Mybatis代码生成工具
 代码生成直接调用mybatis-generator-core-1.4.0.jar
 
-![](./imgs/home.PNG)
+![](./docs/imgs/home.PNG)
 
-![](./imgs/making.PNG)
+![](./docs/imgs/making.PNG)
 
 
 ## 开发环境
